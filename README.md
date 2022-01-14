@@ -1,2 +1,2 @@
-# RickJourny
-Dumb Rickroll site i made in my computer class
+# HI
+Dumb chrome site i made in my computer class
