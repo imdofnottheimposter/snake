@@ -1,2 +1,2 @@
-# snake
-I will teach u how to download snake here. https://watch.screencastify.com/v/tFPgvQrT08RJtWL7jIpm
+# RickJourny
+Dumb Rickroll site i made in my computer class
